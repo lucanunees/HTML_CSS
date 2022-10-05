@@ -209,6 +209,7 @@ p.grid-description{
     .intro-content,
     .grid{
         grid-template-columns: 1fr;
+        margin-right: 1rem;
     }
 
     .gallery-img{
@@ -275,11 +276,9 @@ p.grid-description{
         display: none;
     }
 
-    body {
-        font-size: 1rem;
+    h2{
+        font-size: 3rem;
     }
 
-    h2{
-        font-size: 4rem;
-    }
+   
 }
